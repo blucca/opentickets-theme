@@ -1,0 +1,78 @@
+{
+  "source": "https://opentickets.co.za",
+  "snapshot": "2026-10-29",
+  "assets": {
+    "assets/images/klub-600-2026-lede-aansluiting-hernuwing.jpg": {
+      "url": "https://d3fchakcenee6k.cloudfront.net/storage/445/image-%287%29.jpg",
+      "kind": "original-public-image"
+    },
+    "assets/images/orlando-pirates-fc-2026-27-season-ticket.jpg": {
+      "url": "https://d3fchakcenee6k.cloudfront.net/storage/624/OPFC-TICKET-%281210x450%29.jpg",
+      "kind": "original-public-image"
+    },
+    "assets/images/durban-city-fc-vs-stellenbosch-fc-ckc.jpg": {
+      "url": "https://d3fchakcenee6k.cloudfront.net/storage/3670/1210-X-450-Chatsworth.jpg",
+      "kind": "original-public-image"
+    },
+    "assets/images/isr-sewes-en-hoops.png": {
+      "url": "https://d3fchakcenee6k.cloudfront.net/storage/3765/ISR-2026-TICKET-BANNER-Landloop-1370-x-550.png",
+      "kind": "original-public-image"
+    },
+    "assets/images/kempiefees-2026.jpg": {
+      "url": "https://d3fchakcenee6k.cloudfront.net/storage/301/KempieFees-Banner-2026-05-22-Factory.jpg",
+      "kind": "original-public-image"
+    },
+    "assets/images/mamelodi-sundowns-vs-durban-city.jpg": {
+      "url": "https://d3fchakcenee6k.cloudfront.net/storage/3725/MSFC-v-DCFC-31-Oct-2026-Banner.jpg",
+      "kind": "original-public-image"
+    },
+    "assets/images/appel-in-pe.png": {
+      "url": "https://d3fchakcenee6k.cloudfront.net/storage/463/AOT-OPEN-TICKETS-BANNER-%281210-x-450-px%29.png",
+      "kind": "original-public-image"
+    },
+    "assets/images/going-back-west.png": {
+      "url": "https://d3fchakcenee6k.cloudfront.net/storage/440/Ticket-Banner-2.png",
+      "kind": "original-public-image"
+    },
+    "assets/images/black-swan-africa-extravaganza.png": {
+      "url": "https://d3fchakcenee6k.cloudfront.net/storage/825/Black-Swan-Banner-1210-x-450.png",
+      "kind": "original-public-image"
+    },
+    "assets/images/prg-senior-old-boys-ete-lunch-2026.png": {
+      "url": "https://d3fchakcenee6k.cloudfront.net/storage/3759/Senior-Old-Boys-Lunch-Header.png",
+      "kind": "original-public-image"
+    },
+    "assets/images/help24-somer-fees.png": {
+      "url": "https://d3fchakcenee6k.cloudfront.net/storage/1078/Help24-Banner.png",
+      "kind": "original-public-image"
+    },
+    "assets/images/opentickets-logo.png": {
+      "url": "https://opentickets.co.za/themes/bookishow/logo-icon.png",
+      "kind": "original-public-image"
+    },
+    "assets/images/faq-hero.png": {
+      "url": "https://opentickets.co.za/images/hero-faqs.png",
+      "kind": "original-public-image"
+    },
+    "assets/vendor/bootstrap.min.css": {
+      "url": "https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css",
+      "kind": "Bootstrap 5.3.8; MIT"
+    },
+    "assets/vendor/bootstrap.bundle.min.js": {
+      "url": "https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js",
+      "kind": "Bootstrap 5.3.8; MIT"
+    },
+    "assets/vendor/isotope.pkgd.min.js": {
+      "url": "https://cdn.jsdelivr.net/npm/isotope-layout@3.0.6/dist/isotope.pkgd.min.js",
+      "kind": "Isotope 3.0.6; GPLv3 / commercial dual license"
+    },
+    "assets/fonts/dm-sans-latin.woff2": {
+      "url": "https://github.com/google/fonts/tree/main/ofl/dmsans",
+      "kind": "DM Sans; SIL Open Font License 1.1; locally reused from Soundwalk"
+    },
+    "assets/fonts/OFL.txt": {
+      "url": "https://github.com/google/fonts/tree/main/ofl/dmsans",
+      "kind": "DM Sans; SIL Open Font License 1.1; locally reused from Soundwalk"
+    }
+  }
+}
